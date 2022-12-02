@@ -16,3 +16,4 @@
 # 1.12.2022
 
 - Ukończenie kursu z Gita
+- Rozpoczęcie kursu z Reacta
