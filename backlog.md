@@ -18,3 +18,30 @@
 - Ukończenie kursu z Gita
 - Rozpoczęcie kursu z Reacta
 
+# 2.12.2022
+
+- Nauka React z zakresu: Przewodnik po strukturze projektu
+- Utworzenie szkieltu projektu
+
+# 5.12.2022
+
+- Nauka React z zakresu: Komponenty i JSX, Rekwizyty, domyślne rekwizyty i typy rekwizytów
+- Utworzenie nawigacji w projekcie
+
+# 6.12.2022
+
+- Nauka React z zakresu: Stan i stan użytkowania
+- Powtórzenie JavaScript z zakresu: Funkcji i Tablic
+
+# 7.12.2022
+
+- Nauka React z zakresu: Formularze i wydarzenia
+- Powtórzenie JavaScript z zakresu: DOM
+
+# 8.12.2022
+
+- Nauka React z zakresu: Dynamiczne wyświetlanie danych
+
+# 9.12.2022
+
+- Nauka React z zakresu: Elementy stylizacji
