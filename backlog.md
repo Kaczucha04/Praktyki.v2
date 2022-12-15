@@ -45,3 +45,15 @@
 # 9.12.2022
 
 - Nauka React z zakresu: Elementy stylizacji
+
+# 12.12.2022
+
+- Nauka React z zakresu: Filtrowanie/wyszukiwanie danych
+
+# 13.12.2022
+
+- Nauka React z zakresu: Serwer JSON, HTTP i pobieranie
+
+# 14.12.2022
+
+- Nauka React z zakresu: Metody cyklu życia i wykorzystanieEfekt
