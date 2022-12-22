@@ -21,12 +21,10 @@
 # 2.12.2022
 
 - Nauka React z zakresu: Przewodnik po strukturze projektu
-- Utworzenie szkieltu projektu
 
 # 5.12.2022
 
 - Nauka React z zakresu: Komponenty i JSX, Rekwizyty, domyślne rekwizyty i typy rekwizytów
-- Utworzenie nawigacji w projekcie
 
 # 6.12.2022
 
@@ -57,3 +55,27 @@
 # 14.12.2022
 
 - Nauka React z zakresu: Metody cyklu życia i wykorzystanieEfekt
+
+# 15.12.2022
+
+- Nauka React z zakresu: Usuwanie elementów
+- Wykonanie podstawowych zadań z React
+
+# 16.12.2022
+
+- Utworzenie Szkieletu strony do portfolio
+- Rozpoczęcie kursu z Tailwind CSS
+
+# 19.12.2022
+
+- Nauka Tailwind CSS z zakresu: Czcionki i kolory, Margines, dopełnienie i obramowania, konfiguracja Tailwind,
+
+# 20.12.2022
+
+- Nauka Tailwind CSS z zakesu: Niestandardowe czcionki, Korzystanie z Flexbox,Klasy responsywne,Karty,@apply dyrektywę
+
+# 21.12.2022
+
+-
+
+ 
